@@ -6,6 +6,10 @@ n_cuadrado = n ** 2
 sum_n_impares = sum_impares(n)
 
 if n_cuadrado == sum_n_impares:
-  print("La curiosidad matemática se cumple para n =", n)
+  print("==============================================")
+  print("La curiosidad matematica se cumple para n =", n)
+  print("==============================================")
 else:
-  print("La curiosidad matemática NO se cumple para n =", n)
+  print("=================================================")
+  print("La curiosidad matematica NO se cumple para n =", n)
+  print("=================================================")
